@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #000000; /* Heading color */
+}
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #000000; /* Heading color */
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+  color: #000000; /* Heading color */
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+p {
+  margin-bottom: 5px;
+}
